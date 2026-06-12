@@ -4,6 +4,11 @@
 This project performs **Exploratory Data Analysis (EDA)** and **Survival Analysis** on the **TARGET Neuroblastoma** dataset. The focus is on understanding clinical features, molecular markers, and survival outcomes in paediatric neuroblastoma patients.
 
 **Dataset**: Processed TARGET-NBL (Therapeutically Applicable Research to Generate Effective Treatments - Neuroblastoma)
+## Dataset
+- **Source**: [Processed TARGET-NBL dataset](https://davidechicco.github.io/neuroblastoma_EHRs_data/datasets)
+- **Original Repository**: [Davide Chicco - Neuroblastoma EHRs Data](https://davidechicco.github.io/neuroblastoma_EHRs_data/datasets)
+- **Patients**: ~100+
+- **Key variables**: MYCN amplification, Ploidy, Histology, Age at diagnosis, Survival times, etc.
 
 ## Dataset Features
 - `age_at_diagnosis_days`
@@ -47,8 +52,4 @@ This project performs **Exploratory Data Analysis (EDA)** and **Survival Analysi
 
 ## Author
 **Erick Quiroz**  
-Data Analyst | Bioinformatics Enthusiast  
 
-Feel free to reach out or suggest improvements!
-
----
